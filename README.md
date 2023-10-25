@@ -2,7 +2,7 @@
 <h1 align="center">Halo 👋, saya sgt.zach Noland</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
 
-[![Zach Noland card name](https://cardivo.vercel.app/api?name=MuzakyGood&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](#)
+[![Zach Noland card name](https://cardivo.vercel.app/api?name=MuzakyGood&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=./20230802_125412.jpg?v=4&backgroundColor=%23ecf0f1&instagram=ariafatahanom&github=ariafatah0711&pattern=leaf&colorPattern=%23eaeaea)](#)
 
 <p align="center">
 <a href="#">
