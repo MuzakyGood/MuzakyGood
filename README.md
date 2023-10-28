@@ -99,7 +99,7 @@
 <!-- <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> -->
 
   
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+TOOLS+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA)](https://git.io/typing-svg)
+&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+PROJECT+DAN+TUTORIAL+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA)](https://git.io/typing-svg)
 <hr />
 
 <!-- footer -->
