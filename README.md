@@ -34,7 +34,7 @@
 
 - ⚡ I like **Game, Music, and drawing**
 
-- 🌱 I’m currently learning **Python, html, css, javascript**
+- 🌱 I’m currently learning **Python, Java, html, css, javascript**
 
 - 👨‍💻 device currently in use **Windows 10, and Red Hat 9**
   
