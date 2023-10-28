@@ -44,7 +44,7 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/6289509221496" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="aria_fatah" height="30" width="40" /></a>
+<a href="https://wa.me/6281382177188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Zach" height="30" width="40" /></a>
 <a href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zach_noland" height="30" width="40" /></a>
 <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thegamercraft7806" height="30" width="40" /></a>
 <a href="https://discord.gg/aria F. #8614" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="aria F. #8614" height="30" width="40" /></a>
