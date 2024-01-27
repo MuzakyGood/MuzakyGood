@@ -1,5 +1,5 @@
 <!-- header-->
-<h1 align="center">Halo 👋, saya sgt.zach Noland</h1>
+<h1 align="center">Halo 👋, saya Sgt.Zach Noland</h1>
 <h3 align="center">welcome to my GitHub. and I'm from indonesia</h3>
 
 [![Zach Noland card name](https://cardivo.vercel.app/api?name=Zach%Noland&description=Hi,%20i%27m%20a%20Student%20and%20i%27m%2017%20year%20old.%20i%20do%20things%20related%20to%20front%20end%20web%20development%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://i.redd.it/a39lujqh67381.jpg?v=4&backgroundColor=%23ecf0f1&instagram=zach_noland&github=zach_noland&pattern=leaf&colorPattern=%23eaeaea)](#)
@@ -34,7 +34,7 @@
 
 - ⚡ I like **Game, Music, and drawing**
 
-- 🌱 I’m currently learning **Python, Java, html, css, javascript**
+- 🌱 I’m currently learning **Python, Java, C++, html, css, javascript**
 
 - 👨‍💻 device currently in use **Windows 10, and Linux Red Hat 9**
   
@@ -44,7 +44,6 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://wa.me/6281382177188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Zach" height="30" width="40" /></a>
 <a href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zach_noland" height="30" width="40" /></a>
 <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thegamercraft7806" height="30" width="40" /></a>
 <a href="https://discord.gg/Zach Noland #3836" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Zach Noland #3836" height="30" width="40" /></a>
@@ -56,6 +55,7 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.petanikode.com/tutorial/java/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="35" height="40"/> </a>
 </p>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
@@ -105,12 +105,9 @@
 <!-- footer -->
 # **Contact Me🔥☕**
 <p id="bottom" align="left">
-<a 
-href="https://muzakygood.github.io/HTML/"><img height="30" width="40" src="https://camo.githubusercontent.com/b079fe922f00c4b86f1b724fbc2e8141c468794ce8adbc9b7456e5e1ad09c622/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769746875622e737667"></a>
-<a
-href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instragam" height="30" width="40" /></a>
+<a href="https://muzakygood.github.io/HTML/"><img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/c/c2/GitHub_Invertocat_Logo.svg"></a>
+<a href="https://instagram.com/zach_noland?igshid=NzZlODBkYWE4Ng==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instragam" height="30" width="40" /></a>
 <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
-<a href="https://wa.me/6281382177188?text=Halo+Bang+Zach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="6289694295787" height="30" width="40" /></a>
 
 ## **Date**
  - Rabu, 25 Oktober 2023 11:07
