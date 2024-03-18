@@ -21,7 +21,7 @@
   <img title="Leviathan" src="https://img.shields.io/badge/Zach Noland -black?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge" ></a>
 <p align="center"> <a href="#">
   <a href="#bottom">
-  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-cout%20"hello%20world"; o-blue"></a></p>
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-printf%20("hello%20world")-blue"></a></p>
 <h1></h1>
 
 <!-- about me -->
