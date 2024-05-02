@@ -34,7 +34,7 @@
 
 - ⚡ I like **Game, Music, and drawing**
 
-- 🌱 I’m currently learning **Python, Java, C++, html, css, javascript**
+- 🌱 I’m currently learning **Python, Java, C++, GDScript, html, css, javascript**
 
 - 👨‍💻 device currently in use **Windows 10, and Linux Red Hat 9**
   
@@ -56,7 +56,7 @@
 </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://www.petanikode.com/tutorial/java/" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/919/919854.png" alt="java" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://isocpp.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" alt="cplusplus" width="35" height="40"/> </a>
-</p>
+<a href="https://gdscript.com/tutorials/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Godot_icon.svg/2048px-Godot_icon.svg.png" alt="Godot Engine" width="40" height="40"/> </a> </p>
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?&logo=Linux)
 ![Windows](https://img.shields.io/badge/OS-Windows-blue?&logo=Windows)
