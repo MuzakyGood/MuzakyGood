@@ -67,7 +67,7 @@
 
 ![Metrics](https://metrics.lecoq.io/MuzakyGood?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 <br />
-<img float="center" width="999" src="https://github-readme-stats.vercel.app/api?username=MuzakyGood&show_icons=true&locale=en" alt="ariafatah0711" />
+<img float="center" width="999" src="https://github-readme-stats.vercel.app/api?username=MuzakyGood&show_icons=true&locale=en" alt="MuzakyGood" />
 <br />
 &nbsp;<img float="center" width="999" src="https://github-readme-streak-stats.herokuapp.com/?user=MuzakyGood&" alt="ZachNoland" />
 <br /><br />
