@@ -83,11 +83,6 @@
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
-<br>
-<p><img align="center" src="https://i.pinimg.com/originals/7f/83/be/7f83bef2adec5fcc435b6dfe016005f5.gif" width="300" align="left">
-
-<p><img align="center" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="1000" />
-
 <p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
 
 <details open>
@@ -98,10 +93,6 @@
   
 <!-- <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> -->
 
-  
-&nbsp;[![Typing SVG](http://readme-typing-svg.herokuapp.com?color=ff0000&size=15&multiline=true&width=500&height=80&lines=TERIMA+KASIH+KARENA+SUDAH+MAMPIR;JANGAN+LUPA+FOLLOW+DAN+KASIH+STAR+NYA;SEMOGA+PROJECT+DAN+TUTORIAL+YANG+DISEDIAKAN+DISINI;BERMANFAAT+UNTUK+KALIAN+SEMUA)](https://git.io/typing-svg)
-<hr />
-
 <!-- footer -->
 # **Contact Me🔥☕**
 <p id="bottom" align="left">
@@ -110,5 +101,5 @@
 <a href="https://youtube.com/@thegamercraft7806?si=lix5tIpxKI2oxTMD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
 
 ## **Date**
- - Rabu, 25 Oktober 2023 11:07
+ - Senin, 27 May 2024 07:31
 ------------
