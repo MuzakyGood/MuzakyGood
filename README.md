@@ -25,8 +25,8 @@
 <h1></h1>
 
 <!-- about me -->
-<a href="https://s.id/ariafatah">
-  <img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large"></a>
+<a href="https://s.id/zachproperty">
+<img align="right" alt="coding" width="400" src="https://static.collectui.com/shots/3848914/programmer-thomas-large"></a>
   
 - <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> My name is **Zach Noland**
 
