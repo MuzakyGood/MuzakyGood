@@ -84,12 +84,6 @@
 </a>
 
 <p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
-
-<details open>
-<summary><b>Cute visitor count</b></summary>
-<br>
-<a href="#"><img alt="Cute Count" src="https://count.getloli.com/get/@zach?theme=rule34" /></a>
-</details>
   
 <!-- <img src="https://i.redd.it/nwu0335ccoz41.png" width="25px"> -->
 
