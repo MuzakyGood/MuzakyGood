@@ -38,7 +38,7 @@
 
 - 👨‍💻 device currently in use **Windows 10, and Linux Red Hat 9**
   
-- 📫 How to reach me **muzacky.tea@gmail.com**
+- 📫 How to reach me **muzakyulum@gmail.com**
 
 <!-- media sosial and tool -->
 </p>
