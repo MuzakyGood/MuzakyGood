@@ -35,19 +35,10 @@
 ```cpp
 class Introduction {
   private:
-    std::string MyName = "Zach Noland";
-    std::string MyHobby = "making games from scratch with c++";
-    std::string Languages[9] = {
-    "HTML", "CSS", "JavaScript", "Node.js",
-    "Python", "Java", "C", "C++", "Assembly"};
-
+      std::string Languages[9] = {
+      "HTML", "CSS", "JavaScript", "Node.js",
+      "Python", "Java", "C", "C++", "Assembly"};
   public:
-      void ShowGreet() {
-          std::cout << "Hi, My name is " << this->MyName << std::endl;
-          std::cout << "I love coding and learning new technologies." << std::endl;
-          std::cout << "I have hobby " << this->MyHobby << std::endl << std::endl;
-      }
-
       void ShowProgramingLanguage() {
         std::cout << "Programming Languages I Use: " << std::endl;
         for (int i = 0; i < this->Languages[8].length(); i++) {
