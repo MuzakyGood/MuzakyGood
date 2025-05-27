@@ -33,17 +33,18 @@
 ## 📦 Introduction (C++ Version)
 
 ```cpp
-class Introduction {
+class ZachNoland {
   private:
       std::string Languages[9] = {
       "HTML", "CSS", "JavaScript", "Node.js",
       "Python", "Java", "C", "C++", "Assembly"};
+      
   public:
       void ShowProgramingLanguage() {
-        std::cout << "Programming Languages I Use: " << std::endl;
-        for (int i = 0; i < this->Languages[8].length(); i++) {
-            std::cout << i+1 << "." << Languages[i] << std::endl;
-        }
+          std::cout << "Programming Languages I Use: " << std::endl;
+          for (int i = 0; i < this->Languages[8].length(); i++) {
+                std::cout << i+1 << "." << Languages[i] << std::endl;
+          }
       }
 };
 ```
