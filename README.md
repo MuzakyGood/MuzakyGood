@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub!
 
-<div align="center" style="background-color: white; color: rgb(27, 7, 204); padding: 20px; border-radius: 10px;">
-  <h3 style="text-shadow: 2px 2px 1px rgba(0,0,0,0.2); font-size: 25px; margin: 0;">
+<div align="center">
+  <h3 style="font-size: 25px; margin: 0;">
     Hi, I'm Zach Noland!<br>
     I'm a Software Developer — I love to code and explore new technologies.
   </h3>
