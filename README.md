@@ -9,10 +9,8 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate about software development and always eager to learn more.  
-I enjoy working with a variety of languages and solving real-world problems through code.  
-I have a hobby of making games from scratch using C and C++.  
-I'm also deeply interested in low-level programming concepts such as memory stack management, hexadecimal operations, and CPU registers.
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I'm passionate about software development and always eager to learn more. I enjoy working with a variety of languages and solving real-world problems through code. I have a hobby of making games from scratch using C and C++. I'm also deeply interested in low-level programming concepts such as memory stack management, hexadecimal operations, and CPU registers.</p>
+
 <p>
   <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" alt="Linux" />
   <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" alt="Windows" />
