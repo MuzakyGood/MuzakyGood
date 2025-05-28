@@ -33,7 +33,7 @@
 ## 📦 Introduction (C++ Version)
 
 ```cpp
-class ZachNoland {
+class Zach_Noland {
   private:
       std::string Languages[9] = {
       "HTML", "CSS", "JavaScript", "Node.js",
@@ -58,8 +58,13 @@ class ZachNoland {
 
 <p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
 
+<details>
+<summary>
+
 ## 🙏 Thanks for Visiting!
-<h3 align="center"> 🙏 Thanks for Visiting!<br> Feel free to check out my repositories and connect with me. Have a great day! </h3> 
+</summary>
+<p>📦Feel free to check out my repositories and connect with me. Have a great day!📦</p> 
+</details>
 
 ---
 <p>Profile by Zach Noland in 2025</p> 
