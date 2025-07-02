@@ -51,10 +51,7 @@ class Zach_Noland {
 
 ## 📈🐍 Statistic Repository Progress
 
-<p align="left">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzakyGood&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api?username=MuzakyGood&show_icons=true&theme=github_dark" alt="GitHub Stats" height="165"/>
-</p>
 
 <p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
 
@@ -67,4 +64,5 @@ class Zach_Noland {
 </details>
 
 ---
+Edited in ``19:49``
 <p>Profile by Zach Noland in 2025</p> 
