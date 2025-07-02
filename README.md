@@ -53,10 +53,7 @@ class Zach_Noland {
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuzakyGood&layout=compact&theme=github_dark" alt="Top Languages" height="165"/>
 
-<p><img align="center" alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
-
-<details>
-<summary>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
 
 ## 🙏 Thanks for Visiting!
 </summary>
