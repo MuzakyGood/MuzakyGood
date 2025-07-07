@@ -55,11 +55,22 @@ class Zach_Noland {
 
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/MuzakyGood/MuzakyGood/output/github-contribution-grid-snake.gif" width="1000" />
 
-## 🙏 Thanks for Visiting!
-</summary>
+<details>
+<summary> <h1>🙏 Thanks for Visiting!</h1> </summary>
 <p>📦Feel free to check out my repositories and connect with me. Have a great day!📦</p> 
 </details>
 
 ---
-Edited in ``19:49``
-<p>Profile by Zach Noland in 2025</p> 
+
+<details>
+<summary><h3>📝Edited In:📝</h3></summary>
+<code>
+DATE = 07 July 2025 
+Clock = 15:27
+</code>
+</details>
+<br>
+
+---
+
+Profile by Zach Noland in 2025
