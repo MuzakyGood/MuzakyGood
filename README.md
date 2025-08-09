@@ -58,18 +58,8 @@ class Zach_Noland {
 <details>
 <summary> <h1>🙏 Thanks for Visiting!</h1> </summary>
 <p>📦Feel free to check out my repositories and connect with me. Have a great day!📦</p> 
+<p>📝Is written in : <code>August 08, 2025 | 21:00</code> 📝</p>
 </details>
-
----
-
-<details>
-<summary><h3>📝Edited In:📝</h3></summary>
-<code>
-DATE = 07 July 2025 
-Clock = 15:27
-</code>
-</details>
-<br>
 
 ---
 
